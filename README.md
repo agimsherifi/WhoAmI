@@ -1,7 +1,7 @@
 ## AGIM SHERIFI
 
 <h4> Bachelor <img src="logo/shtuli.png" alt="seeu" width="40" height="40"> CST </h4> </p>
-<h4> Master <img src="logo/shtuli.png" alt="seeu" width="40" height="40"> CST </h4> </p>
+<h4> Master <img src="logo/shtuli.png" alt="seeu" width="40" height="40"> ICT </h4> </p>
 
 ## Hobi & pelqimet
 
